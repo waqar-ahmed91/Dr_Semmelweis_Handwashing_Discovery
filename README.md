@@ -30,7 +30,7 @@ The original data was published in **1861** in Dr. Semmelweis's book:
 > *"The Etiology, Concept, and Prophylaxis of Childbed Fever"*
 
 - Scanned German-language edition includes original hospital tables
-- An excellent **English translation** is publicly available [here](https://gutenberg.org/ebooks/author/61227)
+- An excellent **English translation** is publicly available [here](https://graphics8.nytimes.com/images/blogs/freakonomics/pdf/the%20etiology,%20concept%20and%20prophylaxis%20of%20childbed%20fever.pdf)
 
 ---
 
